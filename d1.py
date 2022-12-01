@@ -1,4 +1,4 @@
-# this took me 3 hours to write. 3 hours and it is the worst code i have ever laid 
+# this took me 3 hours to write. 3 hours and it is the messiest code i have ever laid 
 # my eyes on but god fucking damn it it worked in the end so i consider this a total success 
 # i mean it's obvious how much of a beginner i am through all this but like i 
 # guess that's the whole point, and i learned a ton, and i fucking got the 
