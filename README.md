@@ -11,8 +11,13 @@ terribly unorganized for the moment but everything's functional for now (functio
 anyway yeah the whole goal is to learn how to code through this, i'm using python
 
 using this to:
+
 learn to break problems down into tiny steps
+
 get better at searching online for info and guidance
+
 learn about python and get a feel for the language
+
 get a feel for what programming even is in general honestly 
+
 have fun with friends :) and use what they put together to help me understand the problems and possible solutions in greater depth
