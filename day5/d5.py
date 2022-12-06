@@ -51,6 +51,10 @@ def moveCrates(moveList: list): # taking in the move lists
 def craneAction(moveList: list):
     # we can use the already-declared crateKey here
     # or maybe we should declare it in here at some point instead
+    
+    # YES this was one single array at some point but i was debugging some absolute hell caused by .append when i should have used .extend
+    # so in the process of debugging i unarrayed it cause i didn't understand that .extend was missing until the very end of the problem, and fixing it got me the solve
+    # the AoC rewrite will be a project in like a month or two ahaha. for now it's just What I Actually Used
     pile1 = ['S', 'Z', 'P', 'D', 'L', 'B', 'F', 'C']
     pile2 = ['N', 'V', 'G', 'P', 'H', 'W', 'B']
     pile3 = ['F', 'W', 'B', 'J', 'G']
