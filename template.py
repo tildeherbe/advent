@@ -1,7 +1,7 @@
 import os
 
 def parseInputFile(filename: str):
-    currentDir = os.path.dirname(__file__) #note to self find out why __file__ works
+    currentDir = os.path.dirname(__file__) 
     fullFilePath = os.path.join(currentDir, filename)
     with open(fullFilePath) as inputFile:
         parsedInput = []
